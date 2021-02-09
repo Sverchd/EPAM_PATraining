@@ -1,0 +1,22 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es6",
+    "lib": [
+      "es6",
+      "DOM"
+    ],
+    "sourceMap": true,
+    "outDir": "js"
+  },
+  "exclude": [
+    "node_modules"
+  ],
+  "include": [
+    "ts/**/*"
+  ],
+  "files": [
+    "ts/TimestampedTextbox.ts"
+  ]
+}

@@ -1,0 +1,2 @@
+var TimeStampLibrary;(TimeStampLibrary=void 0===TimeStampLibrary?{}:TimeStampLibrary).onchange=(()=>{"use strict";var e={167:(e,r)=>{Object.defineProperty(r,"__esModule",{value:!0}),r.onChange=void 0,r.onChange=function(e,r,t){e.Page.getAttribute(r).setValue(t.value)}}},r={};return function t(a){if(r[a])return r[a].exports;var i=r[a]={exports:{}};return e[a](i,i.exports,t),i.exports}(167)})();
+//# sourceMappingURL=onchange.js.map
